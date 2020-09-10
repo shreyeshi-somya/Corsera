@@ -1,2 +1,2 @@
 # intro_to_data_science
-Coursera - Introduction to Data Science
+Introduction to Data Science Courses' asignments
